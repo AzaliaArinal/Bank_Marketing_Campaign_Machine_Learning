@@ -53,8 +53,6 @@ Divisi marketing kemudian dapat segera menerapkan hasil model machine learning i
 
 - Membangun model klasifikasi menggunakan teknik machine learning untuk memprediksi kemungkinan nasabah melakukan penyetoran deposito.
 
-- Mengevaluasi dan mengoptimalkan model menggunakan CPA.
-
 - Memberikan rekomendasi untuk strategi pemasaran yang lebih efektif berdasarkan wawasan dari model dan analisis data.
 
 ### **1.8 Metric Evaluation:**
